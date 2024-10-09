@@ -1,7 +1,7 @@
-version: '3.9'
+version: '3.3'
 
 services:
   web:
-   image: ashfaque9x/node-todo-labapp-cicd:latest
+   image: sandhya123019/node-todo-labapp-cicd:latest
    ports:
-     - "8000:8000"
+     - "8010:8010"
